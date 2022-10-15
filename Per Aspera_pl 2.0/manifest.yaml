@@ -1,0 +1,7 @@
+modId: "Polish language pack"
+compatibleGameVersions:
+  - 1.7x
+languages:
+  filenames:
+    - language.yaml
+  replace: false

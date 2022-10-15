@@ -1,0 +1,8 @@
+jer:
+  name: Polski
+  systemLanguage: English
+  files:
+    - backend_base_PL.csv
+    - backend_comments.csv
+    - dialogue_base_PL.csv
+    - frontend_base_PL.csv
