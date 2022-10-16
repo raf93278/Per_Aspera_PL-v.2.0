@@ -191,7 +191,7 @@ Frontend,TXT_Legend_Subtropical_Biomes_Description,"Roślinność przystosowana 
 Frontend,TXT_Legend_Polar_Biomes,Klimat polarny,
 Frontend,TXT_Legend_Polar_Biomes_Description,"Roślinność nie rośnie ze względu na niskie temperatury i stale zamarzniętą ziemię.",
 Frontend,TXT_Legend_Biomes_Desert,Pustynia tropikalna,
-Frontend,TXT_Legend_Biomes_Desert_Description,"Suitable temperature for plants, but not enough humidity for them to grow.",
+Frontend,TXT_Legend_Biomes_Desert_Description,"Odpowiednia temperatura dla roślin, ale niewystarczająca wilgotność, aby mogły rosnąć.",
 Frontend,TXT_Legend_Biomes_Continental,Tropical Lichen,
 Frontend,TXT_Legend_Biomes_Continental_Description,Warmer and wetter grounds where lichen can be abundant.,
 Frontend,TXT_Legend_Biomes_Tropic,Tropical Plants,
